@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DVLARegistrationTestsNUnit/DVLARegistrationTestsNUnit.csproj" />
+  <Project Path="DVLARegistrationTestSystem/DVLARegistrationTestSystem.csproj" />
+</Solution>
